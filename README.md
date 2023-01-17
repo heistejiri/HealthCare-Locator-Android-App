@@ -22,6 +22,15 @@ Health Care Locator works in all parts of the world. This application requires a
 - Provides access to details like ratings, website and pictures of the location
 - One tap access to call and navigation to the hospital
 
+### Tools Used :
+#### Backend :
+  * Android Studio IDE
+  * Java 
+  * Google Map Api
+  
+#### Frontend :
+  * XML
+
 
 <b>Screenshots</b><br><br>
 <img src="screens/sc1.png" width="200" height="300">
