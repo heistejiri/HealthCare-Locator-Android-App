@@ -6,8 +6,6 @@
 [![XML](https://img.shields.io/badge/xml%20-%231572B6.svg?&style=for-the-badge&logo=xml&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
 
 <br>
-<br>
-
 ### Preview :
 Health Care Locator is a convenient app which helps you to locate any hospitals or doctors in your vicinity in case of a medical emergency.
 It uses your device GPS to accurately find your location and show you relevant hospitals near you.
