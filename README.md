@@ -1,4 +1,4 @@
-# Health Care Locator Andriod App
+# Health Care Locator Android App
 
 ## 📌 Tech Stack
 
