@@ -1,4 +1,4 @@
-package com.mayank7319gmail.hospitallocator.utils;
+package com.heistejiri.hospitallocator.utils;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -7,11 +7,8 @@ import android.content.res.Resources;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
-import com.mayank7319gmail.hospitallocator.R;
+import com.heistejiri.hospitallocator.R;
 
-/**
- * Created by Mayank Gupta on 15-12-2017.
- */
 
 public class AdUtil {
     static String admobAppId;
