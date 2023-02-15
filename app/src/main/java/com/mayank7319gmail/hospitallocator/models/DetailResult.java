@@ -1,4 +1,4 @@
-package com.mayank7319gmail.hospitallocator.models;
+package com.heistejiri.hospitallocator.models;
 
 /**
  * Created by Mayank Gupta on 23-12-2017.
