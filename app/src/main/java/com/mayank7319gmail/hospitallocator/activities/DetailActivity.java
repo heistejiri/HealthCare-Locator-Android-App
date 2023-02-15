@@ -1,4 +1,4 @@
-package com.mayank7319gmail.hospitallocator.activities;
+package com.heistejiri.hospitallocator.activities;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,11 +13,11 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.mayank7319gmail.hospitallocator.R;
-import com.mayank7319gmail.hospitallocator.models.DetailResult;
-import com.mayank7319gmail.hospitallocator.models.DetailSinglePlace;
-import com.mayank7319gmail.hospitallocator.rest_api.GooglePlacesApi;
-import com.mayank7319gmail.hospitallocator.rest_api.HospitalListClient;
+import com.heistejiri.hospitallocator.R;
+import com.heistejiri.hospitallocator.models.DetailResult;
+import com.heistejiri.hospitallocator.models.DetailSinglePlace;
+import com.heistejiri.hospitallocator.rest_api.GooglePlacesApi;
+import com.heistejiri.hospitallocator.rest_api.HospitalListClient;
 import com.squareup.picasso.Picasso;
 import com.wang.avi.AVLoadingIndicatorView;
 
