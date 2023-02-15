@@ -1,4 +1,4 @@
-package com.mayank7319gmail.hospitallocator.models;
+package com.heistejiri.hospitallocator.models;
 
 import com.google.gson.annotations.SerializedName;
 
