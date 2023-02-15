@@ -6,9 +6,7 @@ import org.parceler.Parcel;
 
 import java.util.ArrayList;
 
-/**
- * Created by Mayank Gupta on 19-12-2017.
- */
+
 
 @Parcel
 public class DistanceResult {
