@@ -1,4 +1,4 @@
-package com.mayank7319gmail.hospitallocator.activities;
+package com.heistejiri.hospitallocator.activities;
 
 import android.app.SearchManager;
 import android.content.Intent;
@@ -15,13 +15,13 @@ import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
-import com.mayank7319gmail.hospitallocator.R;
-import com.mayank7319gmail.hospitallocator.models.PlaceList;
-import com.mayank7319gmail.hospitallocator.models.SinglePlace;
-import com.mayank7319gmail.hospitallocator.recycler.HospitalListRecycler;
-import com.mayank7319gmail.hospitallocator.rest_api.GooglePlacesApi;
-import com.mayank7319gmail.hospitallocator.rest_api.HospitalListClient;
-import com.mayank7319gmail.hospitallocator.utils.AdUtil;
+import com.heistejiri.hospitallocator.R;
+import com.heistejiri.hospitallocator.models.PlaceList;
+import com.heistejiri.hospitallocator.models.SinglePlace;
+import com.heistejiri.hospitallocator.recycler.HospitalListRecycler;
+import com.heistejiri.hospitallocator.rest_api.GooglePlacesApi;
+import com.heistejiri.hospitallocator.rest_api.HospitalListClient;
+import com.heistejiri.hospitallocator.utils.AdUtil;
 import com.wang.avi.AVLoadingIndicatorView;
 
 import org.parceler.Parcels;
@@ -33,7 +33,7 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-import static com.mayank7319gmail.hospitallocator.utils.LoadingUtil.enableDisableView;
+import static com.heistejiri.hospitallocator.utils.LoadingUtil.enableDisableView;
 
 public class ListActivity extends AppCompatActivity {
 
