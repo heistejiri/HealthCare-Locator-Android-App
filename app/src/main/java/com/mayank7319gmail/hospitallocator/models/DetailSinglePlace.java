@@ -4,9 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.ArrayList;
 
-/**
- * Created by Mayank Gupta on 23-12-2017.
- */
+
 
 public class DetailSinglePlace{
 
