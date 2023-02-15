@@ -4,9 +4,6 @@ import com.google.gson.annotations.SerializedName;
 
 import org.parceler.Parcel;
 
-/**
- * Created by Mayank Gupta on 12-12-2017.
- */
 
 @Parcel
 public class Geometry {
