@@ -1,8 +1,6 @@
 package com.heistejiri.hospitallocator.models;
 
-/**
- * Created by Mayank Gupta on 23-12-2017.
- */
+
 
 public class DetailResult {
     String status;
