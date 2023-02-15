@@ -1,19 +1,17 @@
-package com.mayank7319gmail.hospitallocator.rest_api;
+package com.heistejiri.hospitallocator.rest_api;
 
 import android.content.Context;
 import android.content.res.Resources;
 
 import com.google.android.gms.maps.model.LatLng;
-import com.mayank7319gmail.hospitallocator.R;
+import com.heistejiri.hospitallocator.R;
 
 import java.util.HashMap;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-/**
- * Created by Mayank Gupta on 11-12-2017.
- */
+
 
 public class GooglePlacesApi {
 
