@@ -1,4 +1,4 @@
-package com.mayank7319gmail.hospitallocator.recycler;
+package com.heistejiri.hospitallocator.recycler;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,15 +8,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.mayank7319gmail.hospitallocator.activities.DetailActivity;
-import com.mayank7319gmail.hospitallocator.R;
-import com.mayank7319gmail.hospitallocator.models.SinglePlace;
+import com.heistejiri.hospitallocator.activities.DetailActivity;
+import com.heistejiri.hospitallocator.R;
+import com.heistejiri.hospitallocator.models.SinglePlace;
 
 import java.util.ArrayList;
 
-/**
- * Created by Mayank Gupta on 18-12-2017.
- */
 
 public class HospitalListRecycler extends RecyclerView.Adapter<HospitalListRecycler.ListHolder>{
 
