@@ -1,4 +1,4 @@
-package com.mayank7319gmail.hospitallocator.models;
+package com.heistejiri.hospitallocator.models;
 
 import com.google.android.gms.maps.model.LatLng;
 import com.google.gson.annotations.SerializedName;
@@ -7,9 +7,7 @@ import org.parceler.Parcel;
 
 import java.util.ArrayList;
 
-/**
- * Created by Mayank Gupta on 12-12-2017.
- */
+
 
 @Parcel
 public class SinglePlace {
